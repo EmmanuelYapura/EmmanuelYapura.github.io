@@ -19,3 +19,5 @@ const $btnAdvice = document.querySelector('.btn-advice');
 $btnAdvice.addEventListener('click', () => {
     loadContent();
 })
+
+loadContent();
